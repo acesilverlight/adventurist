@@ -1,10 +1,8 @@
 
-/root
-
-cd /
+/home/acesilverlight
 
 /
 
-cd
 
-/root
+
+/home/acesilverlight

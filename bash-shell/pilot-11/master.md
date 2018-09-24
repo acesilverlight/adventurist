@@ -1,9 +1,12 @@
 
-/ root
+/home/acesilverlight
+
 
 /
 
-/usr/sbin#
 
-/usr  - one level down
-/sbin - two level down
+/usr/sbin
+
+One level down directory - usr
+
+Two level down directory - sbin
