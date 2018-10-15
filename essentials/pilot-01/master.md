@@ -2,7 +2,7 @@
 
 Change the current working directory to directory.
 
-## Bash Version
+## Bash Bash_Version
 
 The Version number of current instance of bash.
 
