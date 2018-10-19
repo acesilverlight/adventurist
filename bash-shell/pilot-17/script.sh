@@ -20,3 +20,7 @@ cd /
 cd ~/route
 
 echo ~
+
+cd /
+
+cd /home/acesilverlight/route
